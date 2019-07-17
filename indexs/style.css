@@ -36,12 +36,12 @@
 
 a {
   color: white;
-  text-shadow: 1.8px 1.5px 3px darkred;
+  text-shadow: 1.8px 1.5px 3px black;
   text-decoration:  none;
 }
 
 a:hover {
-  color: #8b13bf !important;
+  color: #000000 !important;
 }
 
 .dropmenu ul,
